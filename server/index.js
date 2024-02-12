@@ -50,7 +50,6 @@ io.on("connection", (socket) => {
     });
   });
 
-  //https://www.youtube.com/watch?v=u-LBihwjVDk&ab_channel=6PackProgrammer
 });
 
 server.listen(port, () =>
